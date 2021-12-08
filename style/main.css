@@ -44,5 +44,10 @@ body {
     display: block; 
 }
 .header-nav a.active::after {
-    background-color:  #FFC725;
+content: " ";
+width: 100%;
+height: 3px;
+border-radius: 1.5px;
+background: #FFC725;
+display: block;
 }
