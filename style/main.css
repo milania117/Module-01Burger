@@ -69,7 +69,7 @@ button {
     cursor: pointer;
 }
 .button-text {
-    color: background: #443737;
+    color:#443737;
     font-weight:700;
     font-size: 15px;
 }
@@ -418,7 +418,7 @@ button {
     background-color:#FBB731;
     border-radius: 5px;
     text-decoration: none;
-    padding: 20px; 45px;
+    padding: 20px 43px;
     display: inline-block;
     text-transform: uppercase;
     font-size: 14px;
